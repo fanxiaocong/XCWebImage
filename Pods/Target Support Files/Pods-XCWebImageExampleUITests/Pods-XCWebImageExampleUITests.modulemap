@@ -1,0 +1,6 @@
+framework module Pods_XCWebImageExampleUITests {
+  umbrella header "Pods-XCWebImageExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
